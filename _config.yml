@@ -9,10 +9,10 @@ workshop:
   host: "ACMMM 2025<br>Dublin, Ireland<br>October 27-28, 2025"
   submission_link: https://cmt3.research.microsoft.com/PILM2025
   dates:
-    submission: TBD
-    decision: TBD
-    camera_ready: TBD
-    workshop: TBD
+    submission: 13 June 2025
+    decision: 24 July 2025
+    camera_ready: 3 August 2025
+    workshop: 27-28 October 2025 (TBD)
   organizers:
     - name: Simone
       surname: Palazzo

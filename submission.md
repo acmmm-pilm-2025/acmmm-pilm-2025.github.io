@@ -12,7 +12,7 @@ Papers must be submitted through CMT (link will be provided soon).  <!-- [CMT]({
 
 All submissions must comply with the following criteria:
 
-- **Page limit**: Submitted papers may consist of 6 to 8 pages. Up to two additional pages may be added for references. The reference pages must only contain references.
+- **Page limit**: Submitted papers may consist of 4 to 8 pages. Up to two additional pages may be added for references. The reference pages must only contain references.
 - **Formatting style**: Submissions should adhere to the [ACM Multimedia 2025 format and guidelines for regular papers](https://acmmm2025.org/call-for-papers/).
 - **File type**: A single PDF file will be accepted at submission time.
 
