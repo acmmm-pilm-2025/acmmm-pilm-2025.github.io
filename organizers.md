@@ -16,11 +16,12 @@ layout: default
 {% endfor %}
 </p>
 
-# Program Committee
-
+<!-- # Program Committee
+ 
 {% for person in site.workshop.pc %}
 * {{ person.name }} ({{person.affiliation }})
 {% endfor %}
+-->
 
 # Contact
 
