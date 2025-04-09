@@ -4,7 +4,7 @@ layout: default
 
 # Workshop program
 
-TBD
+The workshop program will be determined after final acceptance notifications.
 
 
 <!--{% for entry in site.workshop.program %}
