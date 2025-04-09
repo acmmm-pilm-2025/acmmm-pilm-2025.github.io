@@ -28,12 +28,12 @@ workshop:
       surname: Gonzalez
       affiliation: Stanford University
       email: camgonza@stanford.edu
-      pic: img/pic.jpg
+      pic: img/camila.jpg
     - name: Angelo
       surname: Porrello
       affiliation: University of Modena and Reggio Emilia
       email: angelo.porrello@unimore.it
-      pic: img/pic.jpg
+      pic: img/angelo.jpg
     - name: Lorenzo
       surname: Bonicelli
       affiliation: University of Modena and Reggio Emilia
@@ -48,7 +48,7 @@ workshop:
       surname: Mineo
       affiliation: University of Catania
       email: raffaele.mineo@phd.unict.it
-      pic: img/pic.jpg
+      pic: img/raffaele.jpg
   pc:
     - name: Pennisi Matteo
       affiliation: Università of Catania
