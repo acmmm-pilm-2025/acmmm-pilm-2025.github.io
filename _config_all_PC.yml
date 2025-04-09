@@ -1,0 +1,137 @@
+title: PILM Workshop
+description: PILM Workshop at MICCAI 2024
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
+workshop:
+  name: Workshop on Personalized Incremental Learning in Medicine
+  short: PILM
+  host: "MICCAI 2024<br>Marrakesh, Morocco<br>October 6-10, 2024 (TBD)"
+  submission_link: https://cmt3.research.microsoft.com/PILM2024
+  dates:
+    submission: July 5, 2024
+    decision: July 31, 2024
+    camera_ready: August 10, 2024
+    workshop: October 6-10, 2024 (TBD)
+  organizers:
+    - name: Simone
+      surname: Palazzo
+      affiliation: University of Catania
+      email: simone.palazzo@unict.it
+      pic: img/simone.jpg
+    - name: Giovanni
+      surname: Bellitto
+      affiliation: University of Catania
+      email: giovanni.bellitto@unict.it
+      pic: img/giovanni.jpg
+    - name: Nancy
+      surname: Zlatintsi
+      affiliation: National Technical University of Athens
+      email: nzlat@cs.ntua.gr
+      pic: img/nancy.jpg
+    - name: Panagiotis
+      surname: Filntisis
+      affiliation: National Technical University of Athens
+      email: filby@central.ntua.gr
+      pic: img/panagiotis.jpg
+    - name: Cecilia S.
+      surname: Lee
+      affiliation: University of Washington
+      email: leecs2@uw.edu
+      pic: img/cecilia.jpg
+    - name: Aaron Y.
+      surname: Lee
+      affiliation: University of Washington
+      email: leeay@uw.edu
+      pic: img/aaron.jpg
+  pc:
+    - name: Roussos Anastasios
+      affiliation: ICS-FORTH
+    - name: Katsamanis Athanasios
+      affiliation: ILSP-ATHENA
+    - name: Pitsikalis Vassilis
+      affiliation: DeepLab
+    - name: Chaspari Theodora
+      affiliation: University of Colorado Boulder
+    - name: Efthymiou Niki
+      affiliation: National Technical University of Athens
+    - name: Retsinas George
+      affiliation: National Technical University of Athens
+    - name: Dalakleidi Kalliopi
+      affiliation: National Technical University of Athens
+    - name: Kardaris Nikos
+      affiliation: National Technical University of Athens
+    - name: Pennisi Matteo
+      affiliation: Università Campus Bio-Medico of Rome
+    - name: Mineo Raffaele
+      affiliation: Università Campus Bio-Medico of Rome
+    - name: Spampinato Concetto 
+      affiliation: University of Catania
+    - name: Van de Ven Gido M.
+      affiliation: KU Leuven
+    - name: Tolias Andreas
+      affiliation: Baylor College of Medicine
+    - name: Phillips Rachael V.
+      affiliation: University of California Berkeley
+    - name: Malenica Ivana
+      affiliation: Harvard University
+    - name: De Lange Matthias
+      affiliation: KU Leuven
+    - name: Masana Marc
+      affiliation: Graz University of Technology
+    - name: Barragán Montero Ana M.
+      affiliation: Université catholique de Louvain
+    - name: Shashikumar Supreeth P.
+      affiliation: University of California San Diego
+    - name: Jafari Mohammad
+      affiliation: Columbus State University
+    - name: Gomez Marcella
+      affiliation: University of California Santa Cruz
+    - name: Huang Yixing
+      affiliation: Friedrich-Alexander-University Erlangen-Nuremberg
+  talks:
+    - name: Mirko Polato
+      affiliation: University of Turin
+      pic: img/mirko.jpg
+      title: "Federated Learning in Healthcare: Challenges and Research Directions"
+      file_text: "PDF"
+      file_url: "keynote-fedmed.pdf"
+  program:
+    - time: "09:00"
+      type: organizer
+      desc: Introduction
+    - time: "09:10"
+      type: oral
+      title: Experience sharing and human-in-the-loop optimization for federated robot navigation recommendation
+      author: Morteza Moradi, Mohammad Moradi, Dario Calogero Guastella
+    - time: "09:30"
+      type: oral
+      title: "FeDETR: a Federated Approach for Stenosis Detection in Coronary Angiography"
+      author: Raffaele Mineo, Amelia Sorrenti, Federica Proietto Salanitri
+    - time: "09:50"
+      type: oral
+      title: A Federated Learning Framework for Stenosis Detection
+      author: Mariachiara Di Cosmo, Giovanna Migliorelli, Matteo Francioni, Andi Muçaj, Alessandro Maolo, Alessandro Aprile, Emanuele Frontoni, Maria Chiara Fiorentino, Sara Moccia
+    - time: "10:10"
+      type: oral
+      title: "FeDZIO: Decentralized Federated Knowledge Distillation on Edge Devices"
+      author: Luca Palazzo, Matteo Pennisi, Giovanni Bellitto, Isaak Kavasidis
+    - time: "10:30"
+      type: organizer
+      desc: Coffee break
+    - time: "11:00"
+      type: oral
+      title: Benchmarking Federated Learning Frameworks for Medical Imaging Tasks
+      author: Samuele Fonio
+    - time: "11:20"
+      type: oral
+      title: Federated Learning for Data and Model Heterogeneity in Medical Imaging
+      author: Hussain Ahmad Madni, Rao Muhammad Umer, Gian Luca Foresti
+    - time: "11:40"
+      type: keynote
+      author: Mirko Polato
+      affiliation: University of Turin
+      title: "Federated Learning in Healthcare: Challenges and Research Directions"
+    - time: "12:20"
+      type: organizer
+      desc: Closing remarks
