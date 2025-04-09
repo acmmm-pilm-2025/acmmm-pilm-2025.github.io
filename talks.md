@@ -4,7 +4,7 @@ layout: default
 
 # Talks
 
-TBD
+Details on invited speakers will be provided soon.
 
 <!--
 
