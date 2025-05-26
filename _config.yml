@@ -50,10 +50,22 @@ workshop:
       email: raffaele.mineo@phd.unict.it
       pic: img/raffaele.jpg
   pc:
-    - name: Pennisi Matteo
-      affiliation: Università of Catania
-    - name: Spampinato Concetto 
-      affiliation: University of Catania
+    - name: Matteo Pennisi
+      affiliation: Università of Catania, Italy
+    - name: Concetto Spampinato 
+      affiliation: University of Catania, Italy
+    - name: Marta Lenatti 
+      affiliation: National Research Council of Italy
+    - name: Long Tian 
+      affiliation: Southwest Jiaotong University
+    - name: Davide Ciraolo 
+      affiliation: University of Messina, Italy
+    - name: Miriana Corsaro 
+      affiliation: University of Catania, Italy
+    - name: Rutger Hendrix 
+      affiliation: University Campus Bio-Medico of Rome, Italy
+    - name: Sara Yavari 
+      affiliation: DePaul University, USA
   talks:
     - name: Camila González
       affiliation: Stanford University
