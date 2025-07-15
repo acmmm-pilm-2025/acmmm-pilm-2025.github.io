@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<div style="background-color:rgb(0, 174, 255); border-left: 6px rgb(47, 0, 255); padding: 15px; margin-bottom: 20px; color: white;">
+    <strong>Note:</strong> The deadline has been extended until <strong>26 July</strong>. We also accept <strong>Fast Track Papers</strong> (paper rejected from main conference).
+</div>
 
 # Call for papers
 
