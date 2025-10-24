@@ -4,6 +4,8 @@ layout: default
 
 # Workshop program
 
+The workshop will take place at Dublin Royal Convention Centre, Field 1 & 2. Remote participation will be available [on Google Meet](https://meet.google.com/vqm-woxm-jhb).
+
 {% for entry in site.workshop.program %}
 {% if entry.type == "organizer" %}
 * {{ entry.time }}: {{ entry.desc }}
