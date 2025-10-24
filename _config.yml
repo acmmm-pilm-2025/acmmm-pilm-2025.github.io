@@ -67,49 +67,52 @@ workshop:
     - name: Sara Yavari 
       affiliation: DePaul University, USA
   talks:
-    - name: Camila González
-      affiliation: Stanford University
-      pic: img/camila.jpg
-      title: "Evolving Healthcare: Dynamic Learning as the Key to Advancing Precision Medicine"
+    - name: Martin Mundt
+      affiliation: University of Bremen, Germany
+      pic: img/martin.jpg
+      title: "Time is of the essence: why continually adapted ML models struggle increasingly with learning shortcuts"
+      file_text: "PDF"
+      file_url: "keynote-fedmed.pdf"
+    - name: Tyler Hayes
+      affiliation: Georgia Institute of Technology, USA
+      pic: img/tyler.jpg
+      title: "Adapting to the Unknown: From Novel Class Discovery to Open-Vocabulary Learning"
       file_text: "PDF"
       file_url: "keynote-fedmed.pdf"
   program:
-    - time: "09:00"
+    - time: "13:30"
       type: organizer
       desc: Introduction
-    - time: "09:10"
+    - time: "13:40"
+      type: keynote
+      author: Martin Mundt
+      affiliation: University of Bremen
+      title: Time is of the essence: why continually adapted ML models struggle increasingly with learning
+    - time: "14:20"
       type: oral
-      title: Experience sharing and human-in-the-loop optimization for federated robot navigation recommendation
-      author: Morteza Moradi, Mohammad Moradi, Dario Calogero Guastella
-    - time: "09:30"
+      title: A Peer-to-Peer Federated Incremental Learning Framework for Multi-Institutional Low-Dose CT Denoising
+      author: Hao Wang, Junhao Wu, Deyang Kong, Yankun Wang, Yule Li, Zhaoying Bian, Jianhua Ma, Dong Zeng
+    - time: "14:40"
       type: oral
-      title: "FeDETR: a Federated Approach for Stenosis Detection in Coronary Angiography"
-      author: Raffaele Mineo, Amelia Sorrenti, Federica Proietto Salanitri
-    - time: "09:50"
+      title: Continual Learning Strategies for Personalized Mental Well-being Monitoring from Mobile Sensing Data
+      author: Giovanni Patanè, Amelia Sorrenti, Giovanni Bellitto, Simone Palazzo
+    - time: "15:00"
       type: oral
-      title: A Federated Learning Framework for Stenosis Detection
-      author: Mariachiara Di Cosmo, Giovanna Migliorelli, Matteo Francioni, Andi Muçaj, Alessandro Maolo, Alessandro Aprile, Emanuele Frontoni, Maria Chiara Fiorentino, Sara Moccia
-    - time: "10:10"
+      title: Towards Continual Visual Anomaly Detection in the Medical Domain
+      author: Manuel Barusco, Francesco Borsatti, Nicola Beda, Davide Dalle Pezze, Gian Antonio Susto
+    - time: "15:20"
       type: oral
-      title: "FeDZIO: Decentralized Federated Knowledge Distillation on Edge Devices"
-      author: Luca Palazzo, Matteo Pennisi, Giovanni Bellitto, Isaak Kavasidis
-    - time: "10:30"
+      title: What is Wrong with Continual Learning in Medical Image Segmentation?
+      author: Camila Gonzalez, Nick Lemke, Amin Ranem, Georgios Sakas, Anirban Mukhopadhyay
+    - time: "15:40"
       type: organizer
       desc: Coffee break
-    - time: "11:00"
-      type: oral
-      title: Benchmarking Federated Learning Frameworks for Medical Imaging Tasks
-      author: Samuele Fonio
-    - time: "11:20"
-      type: oral
-      title: Federated Learning for Data and Model Heterogeneity in Medical Imaging
-      author: Hussain Ahmad Madni, Rao Muhammad Umer, Gian Luca Foresti
-    - time: "11:40"
+    - time: "16:00"
       type: keynote
-      author: Mirko Polato
-      affiliation: University of Turin
-      title: "Federated Learning in Healthcare: Challenges and Research Directions"
-    - time: "12:20"
+      author: Tyler Hayes
+      affiliation: Georgia Institute of Technology
+      title: Adapting to the Unknown: From Novel Class Discovery to Open-Vocabulary Learning
+    - time: "16:40"
       type: organizer
       desc: Closing remarks
   program2:

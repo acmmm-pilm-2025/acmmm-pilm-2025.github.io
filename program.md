@@ -4,10 +4,7 @@ layout: default
 
 # Workshop program
 
-The workshop program will be determined after final acceptance notifications.
-
-
-<!--{% for entry in site.workshop.program %}
+{% for entry in site.workshop.program %}
 {% if entry.type == "organizer" %}
 * {{ entry.time }}: {{ entry.desc }}
 {% elsif entry.type == "oral" %}
@@ -15,7 +12,7 @@ The workshop program will be determined after final acceptance notifications.
 {% elsif entry.type == "keynote" %}
 * {{ entry.time }}: **Keynote**: *{{ entry.title }}* ({{ entry.author }}, {{ entry.affiliation }})
 {% endif %}
-{% endfor %}-->
+{% endfor %}
 
 <!--
 {% for entry in site.workshop.program2 %}
