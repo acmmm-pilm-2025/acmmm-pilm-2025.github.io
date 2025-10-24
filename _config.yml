@@ -87,7 +87,7 @@ workshop:
       type: keynote
       author: Martin Mundt
       affiliation: University of Bremen
-      title: Time is of the essence: why continually adapted ML models struggle increasingly with learning
+      title: "Time is of the essence: why continually adapted ML models struggle increasingly with learning"
     - time: "14:20"
       type: oral
       title: A Peer-to-Peer Federated Incremental Learning Framework for Multi-Institutional Low-Dose CT Denoising
@@ -111,7 +111,7 @@ workshop:
       type: keynote
       author: Tyler Hayes
       affiliation: Georgia Institute of Technology
-      title: Adapting to the Unknown: From Novel Class Discovery to Open-Vocabulary Learning
+      title: "Adapting to the Unknown: From Novel Class Discovery to Open-Vocabulary Learning"
     - time: "16:40"
       type: organizer
       desc: Closing remarks
